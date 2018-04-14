@@ -5,7 +5,7 @@ import (
 )
 
 const (
-	serverName = "irc.server.com"
+	serverName = "irc.freenode.org"
 )
 
 func TestGetServerName(t *testing.T) {
